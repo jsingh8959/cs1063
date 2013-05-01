@@ -1,0 +1,18 @@
+Welcome to DrJava.  Working directory is /Users/devint1/Desktop
+> run Coins
+Lab 2 written by Devin Tuchsen
+
+Enter the number ofÉ
+Quarters:  [DrJava Input Box]
+Dimes:  [DrJava Input Box]
+Nickels:  [DrJava Input Box]
+Pennies:  [DrJava Input Box]
+Total Coins: 587
+Value: $108.86
+
+Enter the number of cents: $0. [DrJava Input Box]
+Quarters: 3
+Dimes: 1
+Nickels: 1
+Pennies: 4
+> 

@@ -1,0 +1,10 @@
+Welcome to DrJava.  Working directory is /Users/devint1/Documents/School/Intro to Computer Programming I/lab8
+> run Binary
+Lab 8 written by Devin Tuchsen
+Please enter a decimal number:  [DrJava Input Box]
+42 in binary is 101010.
+Please enter a binary number:  [DrJava Input Box]
+1010100 in decimal is 84.
+Would you like to continue? (yes or no):  [DrJava Input Box]
+Thank You! Have a nice day!
+> 

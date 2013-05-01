@@ -1,0 +1,16 @@
+Welcome to DrJava.  Working directory is /Volumes/DEVIN/lab3
+> run FutureValues
+Lab 3 written by Devin Tuchsen
+
+Enter values to calculate compound interest:
+Present account value (dollars):  [DrJava Input Box]
+Interest rate (% percentage):  [DrJava Input Box]
+Number of years:  [DrJava Input Box]
+Future value of the account: $1,008.43
+
+Enter values to calculate the future value of an annuity:
+Yearly payment (dollars):  [DrJava Input Box]
+Interest rate (% percentage):  [DrJava Input Box]
+Number of years:  [DrJava Input Box]
+Future value of the annuity: $13,756.66
+> 

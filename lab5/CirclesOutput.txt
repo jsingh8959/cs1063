@@ -1,0 +1,19 @@
+Welcome to DrJava.  Working directory is /Users/devint1/Documents/School/Intro to Computer Programming I/lab5
+> run Circles
+Lab 5 written by Devin Tuchsen
+Please enter data for the red circle:
+Center (x,y):  [DrJava Input Box]
+Radius:  [DrJava Input Box]
+Please enter data for the green circle:
+Center (x,y):  [DrJava Input Box]
+Radius:  [DrJava Input Box]
+Please enter data for the blue circle:
+Center (x,y):  [DrJava Input Box]
+Radius:  [DrJava Input Box]
+The red circle and the green circle are the same size.
+The blue circle is smaller than the red circle.
+The blue circle is smaller than the green circle.
+The red circle does not intersect the green circle.
+The red circle intersects the blue circle.
+The green circle does not intersect the blue circle.
+> 

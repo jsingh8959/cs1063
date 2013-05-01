@@ -1,0 +1,9 @@
+Lab 0 Written by Devin Tuchsen
+
+DDDDD   EEEEEEE TTTTTTT
+D    D  E          T
+D     D E          T
+D     D EEEEEEE    T
+D     D E          T
+D    D  E          T
+DDDDD   EEEEEEE    T
